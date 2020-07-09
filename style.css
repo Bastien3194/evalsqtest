@@ -89,9 +89,21 @@ with others.
 					padding-left: 30px;  /* width of the image plus a little extra padding */
 					}
 
+.backToMonth{
+	display: none;
+}
 body .booked-calendar-wrap .booked-appt-list .timeslot .timeslot-time {
 	float: none;
 }
+
+button:hover{
+	background: #6B2237 !important;
+}
+
+
+
+
+/********************************************** *********/
 
 html,
 body {
