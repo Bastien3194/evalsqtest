@@ -59,9 +59,35 @@ with others.
 } 
 */
 
-/* #elementor-tab-title-1331 {
-	
-} */
+ #elementor-tab-title-1331{
+	background-image: url('calendar.svg');
+	background-repeat: no-repeat;
+	padding-left: 30px;  /* width of the image plus a little extra padding */
+	}
+
+	#elementor-tab-title-1332{
+		background-image: url('prep.svg');
+		background-repeat: no-repeat;
+		padding-left: 30px;  /* width of the image plus a little extra padding */
+		}
+
+		#elementor-tab-title-1333{
+			background-image: url('eval.svg');
+			background-repeat: no-repeat;
+			padding-left: 30px;  /* width of the image plus a little extra padding */
+			}
+		
+			#elementor-tab-title-1334{
+				background-image: url('result.svg');
+				background-repeat: no-repeat;
+				padding-left: 30px;  /* width of the image plus a little extra padding */
+				}
+
+				#elementor-tab-title-1335{
+					background-image: url('reco.svg');
+					background-repeat: no-repeat;
+					padding-left: 30px;  /* width of the image plus a little extra padding */
+					}
 
 body .booked-calendar-wrap .booked-appt-list .timeslot .timeslot-time {
 	float: none;
